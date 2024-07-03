@@ -7,6 +7,7 @@
 //  Licensed under Apache 2.0: http://www.apache.org/licenses/LICENSE-2.0
 //
 
+#import "_ASCoreAnimationExtras.h"
 #import "ASAvailability.h"
 #import "ASBaseDefines.h"
 #import "ASDisplayNode.h"
